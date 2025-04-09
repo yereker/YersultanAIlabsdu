@@ -1,0 +1,2 @@
+# YersultanAIlabsdu
+docker mini project
